@@ -75,9 +75,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install Python dependencies
 pip install -r requirements.txt
 
-# Start MongoDB
-mongod --dbpath ./data/db
-
 # Download YOLO models
 # Place yolov8s-face-lindevs.pt in project root
 # Train custom ID/tie detector
