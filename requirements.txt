@@ -1,0 +1,11 @@
+deepface
+tf-keras
+ultralytics
+tensorflow
+opencv-python
+numpy
+faiss-cpu
+fastapi
+uvicorn
+python-multipart
+redis
