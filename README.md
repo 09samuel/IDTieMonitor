@@ -92,7 +92,7 @@ pip install -r requirements.txt
 uvicorn backend:app --reload                                                                                                                                         
 
 # Terminal 2: Start recognition engine
-python python face_detector.py 
+python face_detector.py 
 ```
 
 ### Access Points
